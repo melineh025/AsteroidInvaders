@@ -1,7 +1,8 @@
 # AsteroidInvaders
 Play against three enemy spaceships and avoid getting hit!
 
-<img src='https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif'/>
+
+<img src ="https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Hardware required:
 - Arduino Uno
