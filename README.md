@@ -1,6 +1,8 @@
 # AsteroidInvaders
 Play against three enemy spaceships and avoid getting hit!
 
+<img src='https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif'/>
+
 Hardware required:
 - Arduino Uno
 - LED Matrix ( 16 x 16)
@@ -8,7 +10,7 @@ Hardware required:
 - Buttons and joystick, or combined module
 
 
-Connections to Arduino for Combined Module:
+Connections for Arduino and Combined Module:
 - Key A- D2
 - Key B- D3
 - Key C-D4
@@ -19,3 +21,10 @@ Connections to Arduino for Combined Module:
 - Analog Pins A1 to JoyY
 - GND to Arduino GND
 
+Connections for Arduino and LED Matrix:
+
+Setup:
+- Copy/Paste and compile the C++ code inside the Arudino IDE
+- Import LED Matrix library and other requirements
+- Check if it compiles successfully, warnings are okay
+- 
