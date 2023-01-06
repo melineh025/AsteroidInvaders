@@ -1,8 +1,9 @@
 # AsteroidInvaders
 Play against three enemy spaceships and avoid getting hit!
 
+Demo:
 
-<img src ="https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif"  />
 
 Hardware required:
 - Arduino Uno
@@ -23,9 +24,12 @@ Connections for Arduino and Combined Module:
 - GND to Arduino GND
 
 Connections for Arduino and LED Matrix:
+- 5V to 5V
+- Digital Pin D8
+- GND to GND
 
 Setup:
 - Copy/Paste and compile the C++ code inside the Arudino IDE
 - Import LED Matrix library and other requirements
 - Check if it compiles successfully, warnings are okay
-- 
+- Read your Microcontroller's interrupt system and calibrate (Uno is calibrated above)
