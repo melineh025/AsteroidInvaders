@@ -3,7 +3,7 @@ Play against three enemy spaceships and avoid getting hit!
 
 Demo:
 
-<img src="https://media.giphy.com/media/imXZNAOa5qZz2JGhiW/giphy-downsized-large.gif"  />
+<img src="giphy-downsized-large.gif"  />
 
 Hardware required:
 - Arduino Uno
