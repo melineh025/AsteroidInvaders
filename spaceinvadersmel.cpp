@@ -1,3 +1,8 @@
+//MIT Educational License
+//Melineh Mansour Cheharmohali
+//UCR 2022
+
+
 #include <FastLED.h>
 #include <avr/io.h>
 #include <avr/interrupt.h>
